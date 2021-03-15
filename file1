@@ -1,0 +1,2 @@
+echo "Hello World"
+echo "current date and time is :$(date)"
