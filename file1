@@ -1,2 +1,3 @@
 echo "Hello World"
-echo "current date and time is :$(date)"
+name=alok
+echo My name is $name
